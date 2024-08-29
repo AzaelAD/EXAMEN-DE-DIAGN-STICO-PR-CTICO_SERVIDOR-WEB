@@ -1,0 +1,18 @@
+{
+    "tareas": [
+        {
+            "id": 1,
+            "name": "Limpiar cuarto",
+            "desc": "Ordenar el cuarto para tenerlo limpio",
+            "state": "pendiente",
+            "dateCreated": "28 de agosto del 2024"
+        },
+        {
+            "id": 2,
+            "name": "Hacer examen diagnostico",
+            "desc": "Realizar la parte practica del examen diagnostico de Servicios Web",
+            "state": "pendiente",
+            "dateCreated": "27 de agosto del 2024"
+        }
+    ]
+}
